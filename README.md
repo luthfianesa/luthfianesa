@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luthfianesa" alt="luthfianesa" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/twitter.com/luthfii_anesa" target="blank"><img src="https://img.shields.io/twitter/follow/twitter.com/luthfii_anesa?logo=twitter&style=for-the-badge" alt="twitter.com/luthfii_anesa" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [github.com/luthfianesa](github.com/luthfianesa)
 
 - 📫 How to reach me **lutvheanesa@gmail.com**
@@ -17,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/twitter.com/luthfii_anesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/luthfii_anesa" height="30" width="40" /></a>
+<a href="https://x.com/luthfii_anesa" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?t=st=1719505491~exp=1719509091~hmac=702d94b835fb7a1b800f5fc05539916ce5bf0dea6da394d2d2765472f9fee076&w=740" alt="twitter.com/luthfii_anesa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/luthfianesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luthfianesa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/irvinekinneas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="irvinekinneas" height="30" width="40" /></a>
 <a href="https://fb.com/luthfianesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luthfianesa" height="30" width="40" /></a>
