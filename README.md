@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luthfianesa" alt="luthfianesa" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [github.com/luthfianesa](github.com/luthfianesa)
+- 👨‍💻 All of my projects are available here
 
 - 📫 How to reach me **lutvheanesa@gmail.com**
 
