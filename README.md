@@ -28,7 +28,6 @@
 <a href="https://medium.com/lutvheanesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="lutvheanesa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/irvinekinneas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="irvinekinneas" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/luthfianesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="luthfianesa" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/lutvheanesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lutvheanesa" height="30" width="40" /></a>
 
 </p>
