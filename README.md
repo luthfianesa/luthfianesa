@@ -18,16 +18,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/luthfii_anesa" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?t=st=1719505491~exp=1719509091~hmac=702d94b835fb7a1b800f5fc05539916ce5bf0dea6da394d2d2765472f9fee076&w=740" alt="twitter.com/luthfii_anesa" height="30" width="40" /></a>
+<a href="https://strava.com/athletes/28750133" target="blank"><img align="center" src="https://i0.wp.com/bikewalkwichita.org/wp-content/uploads/2020/03/strava-logo-png-4.png?resize=380%2C380&ssl=1" alt="strava.com/athletes/28750133" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/luthfianesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luthfianesa" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/irvinekinneas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="irvinekinneas" height="30" width="40" /></a>
-<a href="https://fb.com/luthfianesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luthfianesa" height="30" width="40" /></a>
 <a href="https://instagram.com/zelldinchtloire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zelldinchtloire" height="30" width="40" /></a>
-<a href="https://medium.com/lutvheanesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="lutvheanesa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/luthfiasena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luthfiasena" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/luthfianesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="luthfianesa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lutvheanesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lutvheanesa" height="30" width="40" /></a>
+<a href="https://fb.com/luthfianesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luthfianesa" height="30" width="40" /></a>
+<a href="https://x.com/luthfii_anesa" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?t=st=1719505491~exp=1719509091~hmac=702d94b835fb7a1b800f5fc05539916ce5bf0dea6da394d2d2765472f9fee076&w=740" alt="Luthfii_Anesa" height="30" width="40" /></a>
 <a href="https://discord.gg/luthfia.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="luthfia.s" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/luthfiasena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luthfiasena" height="30" width="40" /></a>
+<a href="https://medium.com/lutvheanesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="lutvheanesa" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/irvinekinneas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="irvinekinneas" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/luthfianesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="luthfianesa" height="30" width="40" /></a>
+
+<a href="https://www.leetcode.com/lutvheanesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lutvheanesa" height="30" width="40" /></a>
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luthfianesa&show_icons=true&locale=en&layout=compact" alt="luthfianesa" /></p>
